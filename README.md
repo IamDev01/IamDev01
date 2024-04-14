@@ -1,4 +1,4 @@
-# Olá, seja bem-vindo à minha apresentação!
+# 🪄Olá, seja bem-vindo à minha apresentação!
 
 ## Formação
 Sou graduado em **Análise e Desenvolvimento de Sistemas**, com foco atual em **Power BI**, **Data Analytics**, **Big Data** e **Machine Learn**.
@@ -18,5 +18,4 @@ de máquina para fornecer insights profundos e auxiliar no desenvolvimento de pl
 - **Frameworks de Machine Learning**: Domínio de **TensorFlow**, **Keras** e **Scikit-learn**.
 
 ## Hobbies
-Nos momentos de lazer, sou um entusiasta do **Xadrez**, tanto jogando quanto acompanhando o avanço das **Engines de Xadrez**.
-Aprender coisas novas é um fator essencial para o profissional de TI, algo que pessoalmente valorizo muito.
+Nos meus momentos de lazer, sou um entusiasta do ♟️**Xadrez**, tanto jogando quanto acompanhando o avanço das **Engines de Xadrez**. A complexidade estratégica e a tomada de decisão rápida no xadrez me ensinaram a pensar de forma analítica e a encontrar soluções criativas para problemas, habilidades que são inestimáveis no campo da análise de dados e do aprendizado de máquina. Além disso, minha paixão por aprender coisas novas transcende para o xadrez, onde estou constantemente explorando novas aberturas e táticas, refletindo meu compromisso com o aprimoramento contínuo tanto pessoal quanto profissionalmente.
