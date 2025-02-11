@@ -5,7 +5,7 @@ Sou um desenvolvedor apaixonado por tecnologia e qualidade de software, com expe
 🔧 Desenvolvimento:<br> 
 .NET (C#, ASP.NET Core)<br> 
 Desenvolvimento Web (HTML, CSS, JavaScript)<br> 
-SQL (Banco de Dados Relacional)<br> 
+SQL e NoSql<br> 
 API Restful <br>
 
 ✅ Quality Assurance: <br>
