@@ -19,4 +19,4 @@ Ferramentas de automação (Docker, Jenkins, Azure DevOps)
 🎓 Formação:
 Análise e Desenvolvimento de Sistemas – Concluído em 2023
 📫 Como me encontrar:
-LinkedIn: [https://linkedin.com/in/hericles-da-silva]
+LinkedIn: https://linkedin.com/in/hericles-da-silva
