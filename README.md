@@ -1,7 +1,8 @@
 👋 Olá<br>
 Sou um desenvolvedor apaixonado por tecnologia e qualidade de software, com experiência em .NET, Quality Assurance e uma sólida formação em Análise e Desenvolvimento de Sistemas. Meu objetivo é criar soluções eficientes e de alta qualidade, aplicando boas práticas e automação de testes para garantir a excelência no desenvolvimento de software.
 
-💻 Minhas habilidades incluem:<br> 
+💻 Minhas habilidades incluem:
+
 🔧 Desenvolvimento:<br> 
 .NET (C#, ASP.NET Core)<br> 
 Desenvolvimento Web (HTML, CSS, JavaScript)<br> 
