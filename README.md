@@ -7,15 +7,18 @@ Sou um desenvolvedor apaixonado por tecnologia e qualidade de software, com expe
 Desenvolvimento Web (HTML, CSS, JavaScript)<br> 
 SQL (Banco de Dados Relacional)<br> 
 API Restful <br>
+
 ✅ Quality Assurance: <br>
 Testes automatizados (Playwright, Selenium) <br>
 Metodologias ágeis (Scrum, Kanban) <br>
 Gherkin (Especificação Executável) <br>
 CTFL 4.0 (Certificação em Testes de Software) <br>
 JMeter (Testes de performance) <br>
+
 ⚙️ DevOps: <br>
 Integração contínua e entrega contínua (CI/CD) <br>
 Ferramentas de automação (Docker, Jenkins, Azure DevOps) <br>
+
 📫 Como me encontrar: <br>
 LinkedIn: https://linkedin.com/in/hericles-da-silva 
 
