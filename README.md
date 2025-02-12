@@ -3,22 +3,26 @@ Sou um desenvolvedor apaixonado por tecnologia e qualidade de software, com expe
 
 💻 Minhas habilidades incluem:
 
-🔧 Desenvolvimento:<br> 
-.NET (C#, ASP.NET Core)<br> 
-Desenvolvimento Web (HTML, CSS, JavaScript)<br> 
-Banco de dados SQL e NoSql<br> 
-API Restful <br>
+🔧 Desenvolvimento:   
+.NET (C#, ASP.NET Core)   
+Desenvolvimento Web (HTML, CSS, JavaScript)   
+Banco de dados SQL e NoSql   
+API Restful   
 
-✅ Quality Assurance: <br>
-Testes automatizados (Playwright, Selenium) <br>
-Metodologias ágeis (Scrum, Kanban) <br>
-Gherkin (Especificação Executável) <br>
-CTFL 4.0 (Certificação em Testes de Software) <br>
-JMeter (Testes de performance) <br>
+✅ Quality Assurance:  
+Testes automatizados (Playwright, Selenium)  
+Metodologias ágeis (Scrum, Kanban)  
+Gherkin (Especificação Executável)  
+CTFL 4.0 (Certificação em Testes de Software)  
+JMeter (Testes de performance)  
 
 ⚙️ DevOps: <br>
 Integração contínua e entrega contínua (CI/CD) <br>
 Ferramentas de automação (Docker, Jenkins, Azure DevOps) <br>
+
+🚀 Projetos em destaque:
+[Design Pattern](https://github.com/IamDev01/Design_Pattern) – Implementação de padrões de design utilizando .NET
+
 
 📫 Como me encontrar: <br>
 LinkedIn: https://linkedin.com/in/hericles-da-silva 
