@@ -22,8 +22,8 @@ Ferramentas de automação (Docker, Jenkins, Azure DevOps)
 
 🚀 Projetos em destaque:  
 [Design Pattern](https://github.com/IamDev01/Design_Pattern) – Implementação de padrões de design utilizando .NET  
-[json_to_word](https://github.com/IamDev01/json_to_word)- Este é um aplicativo de Windows Forms que gera relatórios médicos personalizados a partir de dados em formato JSON.
-[Poker_C_Sharp](https://github.com/IamDev01/Poker_C_Sharp)classificador de Mãos de acordo com as regras do Poker
+[json_to_word](https://github.com/IamDev01/json_to_word) - Este é um aplicativo de Windows Forms que gera relatórios médicos personalizados a partir de dados em formato JSON.
+[Poker_C_Sharp](https://github.com/IamDev01/Poker_C_Sharp) - classificador de Mãos de acordo com as regras do Poker
 
 
 📫 Como me encontrar:  
